@@ -1,0 +1,6 @@
+firmware/VSCode/ColorMusic/.pio
+firmware/VSCode/ColorMusic/.vscode/.browse.c_cpp.db*
+firmware/VSCode/ColorMusic/.vscode/c_cpp_properties.json
+firmware/VSCode/ColorMusic/.vscode/launch.json
+firmware/VSCode/ColorMusic/.vscode/ipch
+.DS_Store
